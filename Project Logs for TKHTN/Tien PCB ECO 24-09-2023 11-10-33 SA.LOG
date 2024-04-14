@@ -1,0 +1,74 @@
+Change component parameters: Designator = "J" ("J"); Footprint = "DIP762W60P254L3556H510Q28"; UniqueID = "\CCTZEDRJ" ("\CCTZEDRJ")
+Change component parameters (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/1-2199298-9/TE%20Connectivity%20AMP%20Connectors/view-part/1265789/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A120353-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-2199298-9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number_of_Positions"; Value = "28"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "PDIP-28 TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product_Type"; Value = "Socket"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-2199298-9/TE%20Connectivity%20AMP%20Connectors/view-part/1265789/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BT1(PIN3V)
+Add component (AddParameter): Name = "Value"; Value = "PIN 3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(JP4-C1C)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613004143121"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(DIP8)
+Add component (AddParameter): Name = "Value"; Value = "DS1307"; VariantName = "[No Variations]"
+Added Component: Designator=R1(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Component: Designator=X1(XT32k)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=GND Pin=BT1-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=NetC2_2 Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=C3-3
+Added Pin To Net: NetName=VCC Pin=C3-4
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetBT1_1 Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=NetC2_2 Pin=IC1-5
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-6
+Added Pin To Net: NetName=VCC Pin=IC1-8
+Added Pin To Net: NetName=NetC2_2 Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=NetIC1_1 Pin=X1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=X1-2
+Added Member To Class: ClassName=Tien Member=Component BT1 PIN 3V
+Added Member To Class: ClassName=Tien Member=Component C3 JP4
+Added Member To Class: ClassName=Tien Member=Component IC1 DS1307
+Added Member To Class: ClassName=Tien Member=Component R1 4.7k
+Added Member To Class: ClassName=Tien Member=Component R2 4.7k
+Added Member To Class: ClassName=Tien Member=Component X1 32.768 KHz
+Added Room: Name=Tien

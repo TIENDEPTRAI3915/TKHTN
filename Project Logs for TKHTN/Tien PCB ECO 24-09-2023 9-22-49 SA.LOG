@@ -1,0 +1,59 @@
+Change Component Comment : Designator=R1 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R2 Old Comment=10k New Comment=4.7k
+Added Component: Designator=C4(Tu-pico)
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Tu-pico)
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C6(JP5-D2T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx21821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "61301021821"; VariantName = "[No Variations]"
+Added Component: Designator=R3(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW2)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001959"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Nút Nh?n 2 Chân 6x6x5MM DIP"; VariantName = "[No Variations]"
+Added Component: Designator=X2(XT2)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_6 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC1_5 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-5
+Added Pin To Net: NetName=NetC1_14 Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=NetC1_14 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetC1_5 Pin=X2-1
+Added Pin To Net: NetName=NetC1_6 Pin=X2-2
+Added Pin To Net: NetName=(PCINT14/RESET) PC6 Pin=C6-8
+Added Net: Name=(PCINT14/RESET) PC6
+Added Pin To Net: NetName=PB3 (MOSI/OC2A/PCINT3) Pin=C6-10
+Added Net: Name=PB3 (MOSI/OC2A/PCINT3)
+Added Pin To Net: NetName=PB4 (MISO/PCINT4) Pin=C6-6
+Added Net: Name=PB4 (MISO/PCINT4)
+Added Pin To Net: NetName=PB5 (SCK/PCINT5) Pin=C6-7
+Added Net: Name=PB5 (SCK/PCINT5)
+Added Member To Class: ClassName=Tien Member=Component C4 MH
+Added Member To Class: ClassName=Tien Member=Component C5 MH
+Added Member To Class: ClassName=Tien Member=Component C6 JP5x2
+Added Member To Class: ClassName=Tien Member=Component R3 100K
+Added Member To Class: ClassName=Tien Member=Component SW1 Nut Nhan 2 Chan ( Dip )
+Added Member To Class: ClassName=Tien Member=Component X2 16Mhz
+Added Room: Name=Tien

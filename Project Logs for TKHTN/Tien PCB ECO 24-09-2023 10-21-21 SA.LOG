@@ -1,0 +1,27 @@
+Added Component: Designator=C7(tu gom)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004761"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? g?m 104 100nF 50V"; VariantName = "[No Variations]"
+Added Component: Designator=Cx1(CN1)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx2(CN1)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_8 Pin=C7-1
+Added Pin To Net: NetName=NetC1_7 Pin=C7-2
+Added Pin To Net: NetName=NetC2_8 Pin=Cx1-1
+Added Pin To Net: NetName=NetC1_7 Pin=Cx1-2
+Added Pin To Net: NetName=NetC2_9 Pin=Cx2-1
+Added Pin To Net: NetName=NetC1_7 Pin=Cx2-2
+Added Member To Class: ClassName=Tien Member=Component BT1 PIN 3V
+Added Member To Class: ClassName=Tien Member=Component C3 JP4
+Added Member To Class: ClassName=Tien Member=Component C7 104
+Added Member To Class: ClassName=Tien Member=Component Cx1 104
+Added Member To Class: ClassName=Tien Member=Component Cx2 104
+Added Member To Class: ClassName=Tien Member=Component IC1 DS1307
+Added Member To Class: ClassName=Tien Member=Component R1 4.7k
+Added Member To Class: ClassName=Tien Member=Component R2 4.7k
+Added Member To Class: ClassName=Tien Member=Component X1 32.768 KHz
+Added Room: Name=Tien

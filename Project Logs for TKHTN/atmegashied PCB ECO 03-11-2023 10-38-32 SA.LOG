@@ -1,0 +1,470 @@
+Added Component: Designator=BT1(PIN3V)
+Add component (AddParameter): Name = "Value"; Value = "PIN 3V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(JP14-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613014143121"; VariantName = "[No Variations]"
+Added Component: Designator=C9(JP14-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613014143121"; VariantName = "[No Variations]"
+Added Component: Designator=c10(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Component: Designator=c11(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Component: Designator=C12(JP14-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613014143121"; VariantName = "[No Variations]"
+Added Component: Designator=C13(JP14-C1T)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613014143121"; VariantName = "[No Variations]"
+Added Component: Designator=C14(Header4)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6130xx143121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 March 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W¨¹rth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "613002143121"; VariantName = "[No Variations]"
+Added Component: Designator=C15(Tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 106-10uF 10% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(Tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 106-10uF 10% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(Tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 106-10uF 10% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(Tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004553"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 106-10uF 10% 16V"; VariantName = "[No Variations]"
+Added Component: Designator=Cx3(CN1)
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=IN1(DC0)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Added Component: Designator=J1(KF3-5.08)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/6911031100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Karrer Zheng"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "29 October 2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Würth Elektronik eiSos GmbH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partNo"; Value = "691103110003"; VariantName = "[No Variations]"
+Added Component: Designator=J2(DIPS762W61P254L1016H525Q8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Assmann WSW Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A 08-LC-TT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/A%2008-LC-TT/Assmann%20WSW%20Components/view-part/3092960/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(Header_Duc Cong_3P 2.54)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP1(Header9)
+Add component (AddParameter): Name = "Value"; Value = "Connector 9"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(Header9)
+Add component (AddParameter): Name = "Value"; Value = "Connector 9"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-0805-Red)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-0805-Red)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED-0805-Red)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED-0805-Red)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Tro SMD 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005337"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 330R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Tro SMD 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005337"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 330R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Tro SMD 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005337"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 330R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Tro SMD 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005337"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 330R"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW2-SMD)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW2-SMD)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW2-SMD)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(SW2-SMD)
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Component: Designator=X1(XT32k)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetBT1_1 Pin=BT1-1
+Added Pin To Net: NetName=NetBT1_1 Pin=J2-3
+Added Net: Name=NetBT1_1
+Added Pin To Net: NetName=NetBT1_2 Pin=BT1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=C3-7
+Added Pin To Net: NetName=NetBT1_2 Pin=C9-7
+Added Pin To Net: NetName=NetBT1_2 Pin=C12-7
+Added Pin To Net: NetName=NetBT1_2 Pin=C13-7
+Added Pin To Net: NetName=NetBT1_2 Pin=C14-4
+Added Pin To Net: NetName=NetBT1_2 Pin=Cx3-1
+Added Pin To Net: NetName=NetBT1_2 Pin=IN1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=J1-2
+Added Pin To Net: NetName=NetBT1_2 Pin=J2-4
+Added Pin To Net: NetName=NetBT1_2 Pin=J3-3
+Added Pin To Net: NetName=NetBT1_2 Pin=JP2-2
+Added Net: Name=NetBT1_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J-14
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=J-13
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=NetC1_3 Pin=J-12
+Added Net: Name=NetC1_3
+Added Pin To Net: NetName=NetC1_4 Pin=C1-4
+Added Pin To Net: NetName=NetC1_4 Pin=J-11
+Added Net: Name=NetC1_4
+Added Pin To Net: NetName=NetC1_5 Pin=C1-5
+Added Pin To Net: NetName=NetC1_5 Pin=C5-1
+Added Pin To Net: NetName=NetC1_5 Pin=J-10
+Added Pin To Net: NetName=NetC1_5 Pin=X2-1
+Added Net: Name=NetC1_5
+Added Pin To Net: NetName=NetC1_6 Pin=C1-6
+Added Pin To Net: NetName=NetC1_6 Pin=C4-1
+Added Pin To Net: NetName=NetC1_6 Pin=J-9
+Added Pin To Net: NetName=NetC1_6 Pin=X2-2
+Added Net: Name=NetC1_6
+Added Pin To Net: NetName=NetC1_7 Pin=C1-7
+Added Pin To Net: NetName=NetC1_7 Pin=C2-7
+Added Pin To Net: NetName=NetC1_7 Pin=C4-2
+Added Pin To Net: NetName=NetC1_7 Pin=C5-2
+Added Pin To Net: NetName=NetC1_7 Pin=C6-5
+Added Pin To Net: NetName=NetC1_7 Pin=C7-2
+Added Pin To Net: NetName=NetC1_7 Pin=Cx1-2
+Added Pin To Net: NetName=NetC1_7 Pin=Cx2-2
+Added Pin To Net: NetName=NetC1_7 Pin=J-8
+Added Pin To Net: NetName=NetC1_7 Pin=J-22
+Added Pin To Net: NetName=NetC1_7 Pin=LED1-2
+Added Pin To Net: NetName=NetC1_7 Pin=SW1-2
+Added Net: Name=NetC1_7
+Added Pin To Net: NetName=NetC1_8 Pin=c-2
+Added Pin To Net: NetName=NetC1_8 Pin=C1-8
+Added Pin To Net: NetName=NetC1_8 Pin=C6-1
+Added Pin To Net: NetName=NetC1_8 Pin=C7-1
+Added Pin To Net: NetName=NetC1_8 Pin=c8-2
+Added Pin To Net: NetName=NetC1_8 Pin=J-7
+Added Net: Name=NetC1_8
+Added Pin To Net: NetName=NetC1_9 Pin=C1-9
+Added Pin To Net: NetName=NetC1_9 Pin=J-6
+Added Net: Name=NetC1_9
+Added Pin To Net: NetName=NetC1_10 Pin=C1-10
+Added Pin To Net: NetName=NetC1_10 Pin=J-5
+Added Net: Name=NetC1_10
+Added Pin To Net: NetName=NetC1_11 Pin=C1-11
+Added Pin To Net: NetName=NetC1_11 Pin=J-4
+Added Net: Name=NetC1_11
+Added Pin To Net: NetName=NetC1_12 Pin=C1-12
+Added Pin To Net: NetName=NetC1_12 Pin=J-3
+Added Net: Name=NetC1_12
+Added Pin To Net: NetName=NetC1_13 Pin=C1-13
+Added Pin To Net: NetName=NetC1_13 Pin=J-2
+Added Net: Name=NetC1_13
+Added Pin To Net: NetName=NetC1_14 Pin=c-1
+Added Pin To Net: NetName=NetC1_14 Pin=C1-14
+Added Pin To Net: NetName=NetC1_14 Pin=C6-8
+Added Pin To Net: NetName=NetC1_14 Pin=J-1
+Added Pin To Net: NetName=NetC1_14 Pin=SW1-1
+Added Net: Name=NetC1_14
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=J-28
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=J-27
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC2_3 Pin=C2-3
+Added Pin To Net: NetName=NetC2_3 Pin=J-26
+Added Net: Name=NetC2_3
+Added Pin To Net: NetName=NetC2_4 Pin=C2-4
+Added Pin To Net: NetName=NetC2_4 Pin=J-25
+Added Net: Name=NetC2_4
+Added Pin To Net: NetName=NetC2_5 Pin=C2-5
+Added Pin To Net: NetName=NetC2_5 Pin=J-24
+Added Net: Name=NetC2_5
+Added Pin To Net: NetName=NetC2_6 Pin=C2-6
+Added Pin To Net: NetName=NetC2_6 Pin=J-23
+Added Net: Name=NetC2_6
+Added Pin To Net: NetName=NetC2_8 Pin=C2-8
+Added Pin To Net: NetName=NetC2_8 Pin=Cx1-1
+Added Pin To Net: NetName=NetC2_8 Pin=J-21
+Added Net: Name=NetC2_8
+Added Pin To Net: NetName=NetC2_9 Pin=C2-9
+Added Pin To Net: NetName=NetC2_9 Pin=Cx2-1
+Added Pin To Net: NetName=NetC2_9 Pin=J-20
+Added Net: Name=NetC2_9
+Added Pin To Net: NetName=NetC2_10 Pin=C2-10
+Added Pin To Net: NetName=NetC2_10 Pin=C6-7
+Added Pin To Net: NetName=NetC2_10 Pin=J-19
+Added Net: Name=NetC2_10
+Added Pin To Net: NetName=NetC2_11 Pin=C2-11
+Added Pin To Net: NetName=NetC2_11 Pin=C6-6
+Added Pin To Net: NetName=NetC2_11 Pin=J-18
+Added Net: Name=NetC2_11
+Added Pin To Net: NetName=NetC2_12 Pin=C2-12
+Added Pin To Net: NetName=NetC2_12 Pin=C6-10
+Added Pin To Net: NetName=NetC2_12 Pin=J-17
+Added Net: Name=NetC2_12
+Added Pin To Net: NetName=NetC2_13 Pin=C2-13
+Added Pin To Net: NetName=NetC2_13 Pin=J-16
+Added Net: Name=NetC2_13
+Added Pin To Net: NetName=NetC2_14 Pin=C2-14
+Added Pin To Net: NetName=NetC2_14 Pin=J-15
+Added Net: Name=NetC2_14
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=C12-1
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C12-2
+Added Pin To Net: NetName=NetC3_2 Pin=JP2-7
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC3_3 Pin=C3-3
+Added Pin To Net: NetName=NetC3_3 Pin=C12-3
+Added Pin To Net: NetName=NetC3_3 Pin=JP2-6
+Added Net: Name=NetC3_3
+Added Pin To Net: NetName=NetC3_4 Pin=C3-4
+Added Pin To Net: NetName=NetC3_4 Pin=C12-4
+Added Pin To Net: NetName=NetC3_4 Pin=JP2-5
+Added Net: Name=NetC3_4
+Added Pin To Net: NetName=NetC3_5 Pin=C3-5
+Added Pin To Net: NetName=NetC3_5 Pin=C12-5
+Added Net: Name=NetC3_5
+Added Pin To Net: NetName=NetC3_6 Pin=C3-6
+Added Pin To Net: NetName=NetC3_6 Pin=C12-6
+Added Net: Name=NetC3_6
+Added Pin To Net: NetName=NetC3_8 Pin=C3-8
+Added Pin To Net: NetName=NetC3_8 Pin=C9-9
+Added Pin To Net: NetName=NetC3_8 Pin=c10-2
+Added Pin To Net: NetName=NetC3_8 Pin=c11-2
+Added Pin To Net: NetName=NetC3_8 Pin=C12-8
+Added Pin To Net: NetName=NetC3_8 Pin=C13-9
+Added Pin To Net: NetName=NetC3_8 Pin=C14-3
+Added Pin To Net: NetName=NetC3_8 Pin=Cx3-2
+Added Pin To Net: NetName=NetC3_8 Pin=IN1-1
+Added Pin To Net: NetName=NetC3_8 Pin=J1-1
+Added Pin To Net: NetName=NetC3_8 Pin=J2-8
+Added Pin To Net: NetName=NetC3_8 Pin=J3-2
+Added Pin To Net: NetName=NetC3_8 Pin=JP2-1
+Added Net: Name=NetC3_8
+Added Pin To Net: NetName=NetC3_9 Pin=C3-9
+Added Pin To Net: NetName=NetC3_9 Pin=C12-9
+Added Net: Name=NetC3_9
+Added Pin To Net: NetName=NetC3_10 Pin=C3-10
+Added Pin To Net: NetName=NetC3_10 Pin=C12-10
+Added Pin To Net: NetName=NetC3_10 Pin=JP2-4
+Added Net: Name=NetC3_10
+Added Pin To Net: NetName=NetC3_11 Pin=C3-11
+Added Pin To Net: NetName=NetC3_11 Pin=C12-11
+Added Pin To Net: NetName=NetC3_11 Pin=JP2-3
+Added Net: Name=NetC3_11
+Added Pin To Net: NetName=NetC3_12 Pin=C3-12
+Added Pin To Net: NetName=NetC3_12 Pin=C12-12
+Added Net: Name=NetC3_12
+Added Pin To Net: NetName=NetC3_13 Pin=C3-13
+Added Pin To Net: NetName=NetC3_13 Pin=C12-13
+Added Net: Name=NetC3_13
+Added Pin To Net: NetName=NetC3_14 Pin=C3-14
+Added Pin To Net: NetName=NetC3_14 Pin=C12-14
+Added Net: Name=NetC3_14
+Added Pin To Net: NetName=Netc8_1 Pin=c8-1
+Added Pin To Net: NetName=Netc8_1 Pin=LED1-1
+Added Net: Name=Netc8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=c11-1
+Added Pin To Net: NetName=NetC9_1 Pin=C13-1
+Added Pin To Net: NetName=NetC9_1 Pin=C14-2
+Added Pin To Net: NetName=NetC9_1 Pin=J2-6
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=c10-1
+Added Pin To Net: NetName=NetC9_2 Pin=C13-2
+Added Pin To Net: NetName=NetC9_2 Pin=C14-1
+Added Pin To Net: NetName=NetC9_2 Pin=J2-5
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC9_3 Pin=C9-3
+Added Pin To Net: NetName=NetC9_3 Pin=C13-3
+Added Net: Name=NetC9_3
+Added Pin To Net: NetName=NetC9_4 Pin=C9-4
+Added Pin To Net: NetName=NetC9_4 Pin=C13-4
+Added Pin To Net: NetName=NetC9_4 Pin=JP2-8
+Added Net: Name=NetC9_4
+Added Pin To Net: NetName=NetC9_5 Pin=C9-5
+Added Pin To Net: NetName=NetC9_5 Pin=C13-5
+Added Pin To Net: NetName=NetC9_5 Pin=JP2-9
+Added Net: Name=NetC9_5
+Added Pin To Net: NetName=NetC9_6 Pin=C9-6
+Added Pin To Net: NetName=NetC9_6 Pin=C13-6
+Added Pin To Net: NetName=NetC9_6 Pin=J3-1
+Added Net: Name=NetC9_6
+Added Pin To Net: NetName=NetC9_8 Pin=C9-8
+Added Pin To Net: NetName=NetC9_8 Pin=C13-8
+Added Net: Name=NetC9_8
+Added Pin To Net: NetName=NetC9_10 Pin=C9-10
+Added Pin To Net: NetName=NetC9_10 Pin=C13-10
+Added Net: Name=NetC9_10
+Added Pin To Net: NetName=NetC9_11 Pin=C9-11
+Added Pin To Net: NetName=NetC9_11 Pin=C13-11
+Added Net: Name=NetC9_11
+Added Pin To Net: NetName=NetC9_12 Pin=C9-12
+Added Pin To Net: NetName=NetC9_12 Pin=C13-12
+Added Net: Name=NetC9_12
+Added Pin To Net: NetName=NetC9_13 Pin=C9-13
+Added Pin To Net: NetName=NetC9_13 Pin=C13-13
+Added Net: Name=NetC9_13
+Added Pin To Net: NetName=NetC9_14 Pin=C9-14
+Added Pin To Net: NetName=NetC9_14 Pin=C13-14
+Added Pin To Net: NetName=NetC9_14 Pin=J1-3
+Added Net: Name=NetC9_14
+Added Pin To Net: NetName=NetC15_1 Pin=C15-1
+Added Pin To Net: NetName=NetC15_1 Pin=C16-1
+Added Pin To Net: NetName=NetC15_1 Pin=C17-1
+Added Pin To Net: NetName=NetC15_1 Pin=C18-1
+Added Pin To Net: NetName=NetC15_1 Pin=JP1-8
+Added Pin To Net: NetName=NetC15_1 Pin=LED2-2
+Added Pin To Net: NetName=NetC15_1 Pin=LED3-2
+Added Pin To Net: NetName=NetC15_1 Pin=LED4-2
+Added Pin To Net: NetName=NetC15_1 Pin=LED5-2
+Added Pin To Net: NetName=NetC15_1 Pin=SW2-2
+Added Pin To Net: NetName=NetC15_1 Pin=SW2-3
+Added Pin To Net: NetName=NetC15_1 Pin=SW3-2
+Added Pin To Net: NetName=NetC15_1 Pin=SW3-3
+Added Pin To Net: NetName=NetC15_1 Pin=SW4-2
+Added Pin To Net: NetName=NetC15_1 Pin=SW4-3
+Added Pin To Net: NetName=NetC15_1 Pin=SW5-2
+Added Pin To Net: NetName=NetC15_1 Pin=SW5-3
+Added Net: Name=NetC15_1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=JP1-7
+Added Pin To Net: NetName=NetC15_2 Pin=SW2-1
+Added Pin To Net: NetName=NetC15_2 Pin=SW2-4
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=JP1-6
+Added Pin To Net: NetName=NetC16_2 Pin=SW3-1
+Added Pin To Net: NetName=NetC16_2 Pin=SW3-4
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=JP1-5
+Added Pin To Net: NetName=NetC17_2 Pin=SW4-1
+Added Pin To Net: NetName=NetC17_2 Pin=SW4-4
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=NetC18_2 Pin=JP1-4
+Added Pin To Net: NetName=NetC18_2 Pin=SW5-1
+Added Pin To Net: NetName=NetC18_2 Pin=SW5-4
+Added Net: Name=NetC18_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=X1-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=X1-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=R4-2
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=R3-2
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=R2-2
+Added Net: Name=NetJP1_3
+Added Pin To Net: NetName=NetJP1_9 Pin=JP1-9
+Added Pin To Net: NetName=NetJP1_9 Pin=R1-2
+Added Net: Name=NetJP1_9
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R1-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R2-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R3-1
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R4-1
+Added Net: Name=NetLED5_1
+Added Class: Name=Tien
+Added Room: Name=Tien

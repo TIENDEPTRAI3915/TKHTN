@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=C3-2
+Removed Pin From Net: NetName=NetC2_1 Pin=C3-3
+Removed Pin From Net: NetName=NetC2_2 Pin=IC1-5
+Removed Pin From Net: NetName=NetC2_1 Pin=IC1-6
+Removed Pin From Net: NetName=NetC2_2 Pin=R1-1
+Removed Pin From Net: NetName=NetC2_1 Pin=R2-1
+Removed Member From Class: ClassName=Tien Member=BT1
+Removed Member From Class: ClassName=Tien Member=C3
+Removed Member From Class: ClassName=Tien Member=IC1
+Removed Member From Class: ClassName=Tien Member=R1
+Removed Member From Class: ClassName=Tien Member=R2
+Removed Member From Class: ClassName=Tien Member=X1

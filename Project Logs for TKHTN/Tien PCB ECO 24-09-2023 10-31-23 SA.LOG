@@ -1,0 +1,19 @@
+Change Component Comment : Designator=SW1 Old Comment=Nut Nhan 2 Chan ( Dip ) New Comment=
+Change Component Designator: OldDesignator=R3 NewDesignator=c
+Added Component: Designator=c8(tro vach 1/4w)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH007354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? V?ch 1/4w 5% 10K"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-5-RED)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_8 Pin=c8-2
+Added Pin To Net: NetName=NetC1_7 Pin=LED1-2
+Added Pin To Net: NetName=Netc8_1 Pin=c8-1
+Added Pin To Net: NetName=Netc8_1 Pin=LED1-1
+Added Net: Name=Netc8_1
+Added Member To Class: ClassName=Tien Member=Component c8 1K
+Added Member To Class: ClassName=Tien Member=Component LED1 LED
+Added Room: Name=Tien

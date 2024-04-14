@@ -1,0 +1,44 @@
+Added Component: Designator=J(DIP762W60P254L3556H510Q28)
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/1-2199298-9/TE%20Connectivity%20AMP%20Connectors/view-part/1265789/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A120353-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-2199298-9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "28"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PDIP-28 TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Socket"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-2199298-9/TE%20Connectivity%20AMP%20Connectors/view-part/1265789/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_14 Pin=J-1
+Added Pin To Net: NetName=NetC1_13 Pin=J-2
+Added Pin To Net: NetName=NetC1_12 Pin=J-3
+Added Pin To Net: NetName=NetC1_11 Pin=J-4
+Added Pin To Net: NetName=NetC1_10 Pin=J-5
+Added Pin To Net: NetName=NetC1_9 Pin=J-6
+Added Pin To Net: NetName=NetC1_8 Pin=J-7
+Added Pin To Net: NetName=NetC1_7 Pin=J-8
+Added Pin To Net: NetName=NetC1_6 Pin=J-9
+Added Pin To Net: NetName=NetC1_5 Pin=J-10
+Added Pin To Net: NetName=NetC1_4 Pin=J-11
+Added Pin To Net: NetName=NetC1_3 Pin=J-12
+Added Pin To Net: NetName=NetC1_2 Pin=J-13
+Added Pin To Net: NetName=NetC1_1 Pin=J-14
+Added Pin To Net: NetName=NetC2_14 Pin=J-15
+Added Pin To Net: NetName=NetC2_13 Pin=J-16
+Added Pin To Net: NetName=NetC2_12 Pin=J-17
+Added Pin To Net: NetName=NetC2_11 Pin=J-18
+Added Pin To Net: NetName=NetC2_10 Pin=J-19
+Added Pin To Net: NetName=NetC2_9 Pin=J-20
+Added Pin To Net: NetName=NetC2_8 Pin=J-21
+Added Pin To Net: NetName=NetC1_7 Pin=J-22
+Added Pin To Net: NetName=NetC2_6 Pin=J-23
+Added Pin To Net: NetName=NetC2_5 Pin=J-24
+Added Pin To Net: NetName=NetC2_4 Pin=J-25
+Added Pin To Net: NetName=NetC2_3 Pin=J-26
+Added Pin To Net: NetName=NetC2_2 Pin=J-27
+Added Pin To Net: NetName=NetC2_1 Pin=J-28
+Added Member To Class: ClassName=Tien Member=Component J 1-2199298-9
+Added Room: Name=Tien
